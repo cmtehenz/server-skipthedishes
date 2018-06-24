@@ -1,4 +1,4 @@
-# DevReactJS Sample Project 01 API
+# SkiptheDish Server Sample Project 01 API
 
 
 This API was written in NodeJS (ExpressJS + JWT + SQLite3). The idea is to provide an API to handle data in a Runner app (like NikeRun). So basically, we need to handle two entities/endpoints: `users` and `runs`.
